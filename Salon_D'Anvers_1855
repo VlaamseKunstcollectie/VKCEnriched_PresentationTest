@@ -257,6 +257,19 @@
                         }
                     ]
                 }
+            ],
+        "rendering": [
+                {
+                    "id": "https://dams.vlaamsekunstcollectie.be/filestore/7/1/4_3a961576c4facf2/417_717d505ea1cf3f6.xml",
+                    "type": "Text",
+                    "format": "application/xml",
+                    "profile": "http://www.loc.gov/standards/alto/",
+                    "label": {
+                        "en": [
+                            "ALTO XML"
+                        ]
+                    }
+                }
             ]
         }
     ]
