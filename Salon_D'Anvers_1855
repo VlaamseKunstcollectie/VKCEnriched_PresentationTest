@@ -259,7 +259,7 @@
                 }
             ],
         "seeAlso": {
-            "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/X/X00000019.xml",
+            "id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/VKCEnriched_PresentationTest/main/1855_00116_alto.xml?token=GHSAT0AAAAAACKUGCQK3ULAVTBEUNIMUJRSZLPCPMA",
             "profile": "http://www.loc.gov/standards/alto/ns-v4#",
             "format": "text/xml"
           }
