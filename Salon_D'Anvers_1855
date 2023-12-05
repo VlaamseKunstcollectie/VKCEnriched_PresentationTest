@@ -377,6 +377,59 @@
                     ]
                 }
             ]
+        },
+{
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/736/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Police du Salon (vervolg)"
+                ]
+            },
+            "height": 1592,
+            "width": 1001,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/736/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/736/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F736.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F736.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 1592,
+                                "width": 1001
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/736/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F736.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F736.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
