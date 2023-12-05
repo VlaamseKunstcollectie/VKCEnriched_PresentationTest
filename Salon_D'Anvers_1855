@@ -28,19 +28,6 @@
                     "Société royale d'encouragement des beaux-arts Anvers"
                 ]
             },
-        "manifest_url": {
-            "label": {
-                "none": [
-                    "IIIF manifest"
-                ]
-            },
-            "value": {
-                "none": [
-                    "<a href=\"https://imagehub.vlaamsekunstcollectie.be/iiif/3/731/manifest.json\">https://imagehub.vlaamsekunstcollectie.be/iiif/3/731/manifest.json</a>"
-                ]
-            }
-        }
-    },
     "viewingDirection": "left-to-right",
     "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
     "requiredStatement": {
