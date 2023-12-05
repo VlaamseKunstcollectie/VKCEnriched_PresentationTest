@@ -1,0 +1,123 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/731/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "fr": [
+            "Exposition Nationale. Catalogue des ouvrages de peinture, sculpture, architecture, gravure et dessin, exÃ©cutÃ©s par des artistes vivants, et exposÃ©s au salon d'Anvers (12.08.1855)"
+        ]
+    },
+    "metadata": {
+        "manifest_url": {
+            "label": {
+                "none": [
+                    "IIIF manifest"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"https://imagehub.vlaamsekunstcollectie.be/iiif/3/731/manifest.json\">https://imagehub.vlaamsekunstcollectie.be/iiif/3/731/manifest.json</a>"
+                ]
+            }
+        }
+    },
+    "viewingDirection": "left-to-right",
+    "behavior": [
+        "paged"
+    ],
+    "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ],
+            "nl": [
+                "Naamsvermelding"
+            ]
+        },
+        "value": {
+            "en": [
+                "<p><a href=\"https://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/\"/></a></p><a href=\"https://lib.ugent.be/catalog/rug01:000714930\">Ghent University Library</a><br><p>This work was digitised by Google. You can use it freely, taking into account the conditions formulated by Google</p></p>"
+            ],
+            "nl": [
+                "<p><a href=\"https://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/\"/></a></p><a href=\"https://lib.ugent.be/catalog/rug01:000714930\">Universiteitsbibliotheek Gent</a><br><p>Dit werk werd gedigitaliseerd door Google. Het kan vrij worden gebruikt onder de voorwaarden die Google oplegt.</p></p>"
+            ]
+        }
+    },
+    "start": {
+        "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/731/canvas/1",
+        "type": "Canvas"
+    },
+    "items": [
+        {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/731/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Gebruiksrichtlijnen door Google"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Description"
+                        ],
+                        "nl": [
+                            "Beschrijving"
+                        ]
+                    },
+                    "value": {
+                        "nl": [
+                            "Dit boek werd gedigitaliseerd door Google in het kader van het project Google Books. Bij gebruik moet dus rekening worden gehouden met de richtlijnen die door Google zijn uitgeschreven."
+                        ]
+                    }
+                }
+            ],
+            "height": 2200,
+            "width": 1700,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/731/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/731/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F731.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F731.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 2200,
+                                "width": 1700
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/731/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F731.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F731.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
