@@ -258,19 +258,11 @@
                     ]
                 }
             ],
-        "rendering": [
-                {
-                    "id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/VKCEnriched_PresentationTest/main/1855_00116_alto.xml?token=GHSAT0AAAAAACKUGCQLVRXFKKBLCEN75RNAZLO62LQ",
-                    "type": "Text",
-                    "format": "text/xml",
-                    "profile": "http://www.loc.gov/standards/alto/",
-                    "label": {
-                        "en": [
-                            "ALTO XML"
-                        ]
-                    }
-                }
-            ]
+        "seeAlso": {
+            "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/X/X00000019.xml",
+            "profile": "http://www.loc.gov/standards/alto/ns-v4#",
+            "format": "text/xml"
+          }
         }
     ]
 }
