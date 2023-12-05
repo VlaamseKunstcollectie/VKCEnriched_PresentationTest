@@ -258,11 +258,19 @@
                     ]
                 }
             ],
-        "seeAlso": {
-            "id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/VKCEnriched_PresentationTest/main/1855_00116_alto.xml?token=GHSAT0AAAAAACKUGCQK3ULAVTBEUNIMUJRSZLPCPMA",
-            "profile": "http://www.loc.gov/standards/alto/ns-v4#",
-            "format": "text/xml"
-          }
+        "rendering": [
+                {
+                    "id": "https://dams.vlaamsekunstcollectie.be/filestore/7/1/4_3a961576c4facf2/417_717d505ea1cf3f6.xml",
+                    "type": "Text",
+                    "format": "application/xml",
+                    "profile": "http://www.loc.gov/standards/alto/",
+                    "label": {
+                        "en": [
+                            "ALTO XML"
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
