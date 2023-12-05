@@ -262,7 +262,7 @@
                 {
                     "id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/VKCEnriched_PresentationTest/main/1855_00116_alto.xml?token=GHSAT0AAAAAACKUGCQLVRXFKKBLCEN75RNAZLO62LQ",
                     "type": "Text",
-                    "format": "application/xml",
+                    "format": "text/xml",
                     "profile": "http://www.loc.gov/standards/alto/",
                     "label": {
                         "en": [
