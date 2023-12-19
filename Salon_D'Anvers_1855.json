@@ -1063,6 +1063,76 @@
                 "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/transcriptions/870/1.json",
                 "type": "AnnotationPage"
             }
+        },
+         {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/872/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "fr": [
+                    "Liste des souscriptions - vervolg 3"
+                ]
+            },
+            "height": 1586,
+            "width": 1001,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/872/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/872/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F872.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F872.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 1586,
+                                "width": 1001
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/872/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F872.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F872.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://dams.vlaamsekunstcollectie.be/filestore/8/3/9_497137453e26f53/938_e9840de87a0dc04.xml",
+                    "type": "Text",
+                    "format": "application/xml",
+                    "profile": "http://www.loc.gov/standards/alto/",
+                    "label": {
+                        "en": [
+                            "ALTO XML"
+                        ]
+                    }
+                }
+            ],
+            "annotations": {
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/transcriptions/872/1.json",
+                "type": "AnnotationPage"
+            }
         }
     ]
 }
