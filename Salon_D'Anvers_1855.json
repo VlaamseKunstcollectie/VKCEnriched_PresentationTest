@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/731/manifest.json",
+    "id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/VKCEnriched_PresentationTest/main/Salon_D'Anvers_1855.json",
     "type": "Manifest",
     "label": {
         "fr": [
